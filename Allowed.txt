@@ -1,0 +1,2 @@
+# Telegram user IDs allowed to use the bot (one ID per line)
+7210442494
